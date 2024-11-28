@@ -1,5 +1,14 @@
 # MxFace Iris Software Documentation
 
+## **Prerequisites**
+Before using the services, ensure the following:
+
+- Device supported -> MIS 100V2
+- Driver (MIS100V2_Driver_2.1.0.0) is installed and running in your system (from the Artifacts Folder)
+- Windows Services are running on both the web & server (from the Artifacts folder).
+- Your device is connected to your system.
+- The project framework is .NET 6.0 or above.
+
 ## Interfaces
 
 ### **IDevice**
